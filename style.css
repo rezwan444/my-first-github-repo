@@ -2,3 +2,17 @@
     background-color: tomato;
     padding: 10px;
 }
+
+caption{
+    color: black;
+    font-weight: 900;
+    font-size: large;
+}
+
+table{
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
